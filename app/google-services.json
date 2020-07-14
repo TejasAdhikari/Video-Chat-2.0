@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "131437526024",
+    "firebase_url": "https://video-chat-b.firebaseio.com",
+    "project_id": "video-chat-b",
+    "storage_bucket": "video-chat-b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131437526024:android:e20a2abd1ccc333b2ca5bd",
+        "android_client_info": {
+          "package_name": "com.quickblox.sample.videochat.java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131437526024-9ra74j4ctj8j2k384ssppcft2nqf8h6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsBHEsmCwwQpwXR8Gp1plFCw9s8V4AiUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131437526024-9ra74j4ctj8j2k384ssppcft2nqf8h6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
