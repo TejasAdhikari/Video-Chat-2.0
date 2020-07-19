@@ -22,10 +22,10 @@ public class App extends Application {
     public static final boolean ALLOW_LISTEN_NETWORK = true;
 
     //App credentials
-    private static final String APPLICATION_ID = "84027";
-    private static final String AUTH_KEY = "9UXSV3pcZ5CGkRB";
-    private static final String AUTH_SECRET = "Nx46kGyXqsc6jGq";
-    private static final String ACCOUNT_KEY = "2QvKfiF6U9DhcGZh3M37";
+    private static final String APPLICATION_ID = "";
+    private static final String AUTH_KEY = "";
+    private static final String AUTH_SECRET = "";
+    private static final String ACCOUNT_KEY = "";
 
     //Chat settings range
     private static final int MAX_PORT_VALUE = 65535;
